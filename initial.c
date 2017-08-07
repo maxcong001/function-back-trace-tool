@@ -1,4 +1,5 @@
-    #include <stdio.h>  
+//http://blog.csdn.net/hoi0714/article/details/7658100    
+#include <stdio.h>  
     #include <stdlib.h>  
     #include <string.h>  
       
